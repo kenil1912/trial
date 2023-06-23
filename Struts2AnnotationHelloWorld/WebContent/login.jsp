@@ -43,8 +43,8 @@
 <div class="container">
     <div class="form-container">
 <h3>Welcome Student, please login below</h3>
-<h1> Hello just for check!!!</h1>
-
+<h1> Hello just for check123!!!</h1>
+<h3>cmd test </h3>
 <h1> of pull example </h1>
 <s:form action="login">
 	<s:textfield name="name" label="User Name"></s:textfield>
