@@ -43,6 +43,7 @@
 <div class="container">
     <div class="form-container">
 <h3>Welcome Student, please login below</h3>
+<h1> Hello just for check!!!</h1>
 <s:form action="login">
 	<s:textfield name="name" label="User Name"></s:textfield>
 	<s:textfield name="pwd" label="Password" type="password"></s:textfield>
